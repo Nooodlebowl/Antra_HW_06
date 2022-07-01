@@ -24,7 +24,7 @@
 
 //PRACTICING GENERICS
 //Q1
-using ConsoleApp1;
+using Antra_HW_06;
 
 public class MyStack<T> 
 {
